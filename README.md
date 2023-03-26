@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 MSc student in Data Science & BI at UniPi<br>📊 In love with Data Visualization & Financial Market
+👨🏻‍💻 MSc student in Data Science & BI at UniPi<br>📊 In love with Data Visualization & Financial Markets
 
 
 ## 🌐 Socials:
