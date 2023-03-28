@@ -2,7 +2,7 @@
 👨🏻‍💻 MSc student in Data Science & BI at UniPi<br>📊 In love with Data Visualization & Financial Markets
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismaelegorgoglione) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismaele-gorgoglione-14a63318b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ishmaz) 
 
 # Tech Stack:
