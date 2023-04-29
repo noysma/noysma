@@ -1,5 +1,5 @@
 # About Me:
-I'm a MSc student in Data Science & BI at UniPi<br>I have a great interest in full-stack development, artificial intelligence, finance and everithing in between.
+👨🏻‍💻 I'm a MSc student in Data Science & BI at UniPi<br>📚 I have a great interest in full-stack development, artificial intelligence, finance and everithing in between.
 
 
 ## Socials:
