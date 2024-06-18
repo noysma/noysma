@@ -1,5 +1,5 @@
 # About Me:
-👨🏻‍💻 MSc student in Data Science & BI at University of Pisa<br>📚 Great interest in full-stack development, artificial intelligence, finance and everything in between.
+👨🏻‍💻 MSc degree in Data Science & BI at University of Pisa<br>📚 Great interest in full-stack development, artificial intelligence, finance and everything in between.
 
 
 ### LinkedIn profile:
