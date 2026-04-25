@@ -1,6 +1,5 @@
 # About Me:
-👨🏻‍💻 MSc degree in Data Science & BI at University of Pisa<br>📚 Great interest in full-stack development, artificial intelligence, finance and everything in between.
-
+👨🏻‍💻 Data Engineer with an MSc in Data Science from the University of Pisa<br>☁️ Working daily with cloud, big data, and ML pipelines<br>📚 Drawn to AI/ML, data science and the research side of things
 
 ### LinkedIn profile:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismaele-gorgoglione/) 
